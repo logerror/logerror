@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+
+<p align="center">
+  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+</p>  
+<h2 align="center">Hi there 👋, I'm Shin!</h2>
 
 <!--
 **logerror/logerror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
